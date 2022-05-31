@@ -1,0 +1,13 @@
+Decomposição-> Desmembrar o problemas em problemas menores.
+
+Reconhecimento de padrões-> Identificar padrões, generalizando e notando similaridades e diferenças.
+
+Abastração-> Resolução de problemas.
+
+Design de algoritimos-> Automatizar - Definir passo a passo a solução do problema.
+
+
+	Processo Continuo
+-Definir uma solução
+-Testar a solução
+-Aperfeiçoamento de solução encontrada.
