@@ -1,0 +1,16 @@
+Link para download Git: https://git-scm.com/downloads
+
+O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+COMANDOS GIT
+Ls -> listar
+pwd-> mostrar o caminho
+cat id_ed25519.pub -> mostrar arquivo oculto
+
+git init – iniciar
+
+git add – mover
+
+git commit
+git status – informa o status dos arquivos
+mv - mover
