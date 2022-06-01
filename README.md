@@ -20,3 +20,10 @@ Mentoria #4: [Como ser o próximo contratado pela Unimed BH](youtube.com/watch?v
 ## Links Úteis
 
 [Sintaxe Básica MarkDown](https://www.markdownguide.org/basic-syntax/)
+
+[Baixar Git](https://git-scm.com/downloads)
+
+[Baixar Typora](https://typora.io/)
+
+
+
